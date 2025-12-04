@@ -1,2 +1,0 @@
-# moonlight
-moonlight college app
